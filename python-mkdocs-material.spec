@@ -7,7 +7,7 @@ Summary:	Material Design theme for MkDocs
 Summary(pl.UTF-8):	Motyw Material Design do MkDocs
 Name:		python-mkdocs-material
 Version:	4.1.0
-Release:	3
+Release:	4
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/mkdocs-metarial/
